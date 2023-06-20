@@ -201,7 +201,7 @@
                   "title": "Power button",
                   "type": "string"
                 },
-                 "Mute": {
+                 "mute": {
                   "title": "Mute button",
                   "type": "string"
                 },
@@ -567,6 +567,8 @@
               "devices[].ccRemoteRemap.back",
               "devices[].ccRemoteRemap.playpause",
               "devices[].ccRemoteRemap.information"
+              "devices[].ccRemoteRemap.power",
+              "devices[].ccRemoteRemap.mute",
             ]
           },
           {
