@@ -197,6 +197,14 @@
                   "title": "PlayPause button",
                   "type": "string"
                 },
+                 "power": {
+                  "title": "Power button",
+                  "type": "string"
+                },
+                 "Mute": {
+                  "title": "Mute button",
+                  "type": "string"
+                },
                 "information": {
                   "title": "Information button",
                   "type": "string"
